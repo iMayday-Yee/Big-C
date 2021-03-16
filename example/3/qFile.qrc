@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/infos">
-        <file>line_info.txt</file>
-        <file>station_info.txt</file>
-        <file>tmp.txt</file>
-    </qresource>
-</RCC>
