@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/qPhoto">
+        <file>Wuhan_Metro_bilingual_map.png</file>
+        <file>Elena.ico</file>
+    </qresource>
+    <qresource prefix="/qFile">
+        <file>line_info.txt</file>
+        <file>station_info.txt</file>
+        <file>tmp.txt</file>
+        <file>hello.txt</file>
+    </qresource>
+    <qresource prefix="/qss"/>
+</RCC>
